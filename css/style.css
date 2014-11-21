@@ -91,17 +91,20 @@
 
 	#bg {
 
-		background: #348cb2 url("images/bg.jpg");
-		background-position: center bottom;
-		background-size: 100% 100%;
-		background-repeat: no-repeat;
+		background: url("images/bg.jpg") repeat-x center bottom fixed; 
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
 		height: 100%;
 		width: auto;
 		max-width: 100%;
 		left: 0;
 		opacity: 1;
-		position: fixed
+		position: fixed;
 		top: 0;
+
+
 	}
 
 	#bg {
