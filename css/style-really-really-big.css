@@ -11,19 +11,21 @@
 		width: 6500px;
 	}
 	
+	
 
 	#header h1 {
-		font-size: 5.5em;
+		font-size: 4.5em;
 	}
 
 	#header h2 {
-		font-size: 3em;
+		font-size: 2em;
 	}
 
 	#header p {
-		font-size: 4em;
+		font-size: 2em;
 	}
 
 	#footer{
-		font-size: 1.5em;
+		font-size: 1em;
 	}
+	

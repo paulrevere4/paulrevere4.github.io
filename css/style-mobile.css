@@ -11,7 +11,7 @@
 	}
 
 	body, input, select, textarea {
-		font-size: 14pt;
+		font-size: 12pt;
 	}
 
 /* BG */
@@ -21,24 +21,45 @@
 		width: 900px;
 	}
 
+/* Wrapper */
+
+	#wrapper {
+		opacity: 1;
+	}
+
+/* Overlay */
+
+	#overlay {
+		opacity: 1;
+	}
+
 /* Header */
+
+	#header {
+		opacity: 1;
+	}
+
+		#header nav li {
+			opacity: 1;
+		}
 
 	#header h1 {
 		font-size: 2.5em;
+	}
+
+	#header h2 {
+		font-size: 1em;
 	}
 
 	#header p {
 		font-size: 1em;
 	}
 
+
 	#header nav {
 		font-size: 1em;
 	}
 
-		#header nav a:hover {
-			font-size: 1em;
-		}
-
-		#header nav a:active {
-			font-size: 1em;
-		}
+	#footer{
+		font-size: .75em;
+	}
