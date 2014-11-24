@@ -21,5 +21,9 @@
 	}
 
 	#header p {
-		font-size: 3em;
+		font-size: 4em;
+	}
+
+	#footer{
+		font-size: 1.5em;
 	}
