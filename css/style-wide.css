@@ -4,17 +4,15 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+/* Basic */
+
+	body, input, select, textarea {
+		font-size: 13pt;
+	}
+
 /* BG */
 
 	#bg {
-		
-		background-size: 1400px auto;
-		width: 1237.5px;
-		
-	}
-	
-/* Header */
-	
-	#header nav {
-		padding: 0 1em;
+		background-size: 1700px auto;
+		width: 4500px;
 	}
