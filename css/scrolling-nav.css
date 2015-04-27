@@ -31,6 +31,7 @@ of those sections to manage the look and feel of the site. */
 h1{
     font-family: 'Exo 2', sans-serif;
     font-size: 100px;  
+    text-shadow: 2px 2px #ffffff;;
 
 
 }
