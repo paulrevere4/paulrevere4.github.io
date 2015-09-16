@@ -143,9 +143,9 @@ section:last-child {
 
 .keySkills {
 	list-style-type: none;
-	-moz-column-count:4;
-	-webkit-column-count:4;
-	column-count:4;
+	-moz-column-count:3;
+	-webkit-column-count:3;
+	column-count:3;
 	margin-bottom: 20px;
 	font-size: 1em;
 	color: #444;
