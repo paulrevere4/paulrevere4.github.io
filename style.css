@@ -134,7 +134,7 @@ section:last-child {
 
 .sectionTitle h1 {
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
-	font-style: italic;
+	/*font-style: italic;*/
 	font-size: 1.5em;
 	color: #cf8a05;
 }
@@ -165,6 +165,20 @@ section:last-child {
 	margin-bottom: 3px;
 }
 
+.courses {
+	list-style-type: none;
+	-moz-column-count:2;
+	-webkit-column-count:2;
+	column-count:2;
+	margin-bottom: 20px;
+	font-size: 1em;
+	color: #444;
+}
+
+.courses ul li {
+	margin-bottom: 3px;
+}
+
 @media all and (min-width: 602px) and (max-width: 800px) {
 	#headshot {
 		display: none;
@@ -174,6 +188,12 @@ section:last-child {
 	-moz-column-count:2;
 	-webkit-column-count:2;
 	column-count:2;
+	}
+
+	.courses {
+	-moz-column-count:1;
+	-webkit-column-count:1;
+	column-count:1;
 	}
 }
 
@@ -209,6 +229,12 @@ section:last-child {
 		-webkit-column-count:2;
 		column-count:2;
 	}
+
+	.courses {
+		-moz-column-count:1;
+		-webkit-column-count:1;
+		column-count:1;
+	}
 }
 
 @media all and (max-width: 480px) {
@@ -229,6 +255,12 @@ section:last-child {
 	-moz-column-count:1;
 	-webkit-column-count:1;
 	column-count:1;
+	}
+
+	.courses {
+		-moz-column-count:1;
+		-webkit-column-count:1;
+		column-count:1;
 	}
 	
 	#name h1 {
