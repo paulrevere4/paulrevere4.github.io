@@ -32,12 +32,47 @@ p {
 	color: #444;
 }
 
+#head {
+	width: 95%;
+	max-width: 800px;
+	background: #f3f3f3;
+	margin: 30px auto;
+}
+
 #cv {
 	width: 95%;
 	max-width: 800px;
 	background: #f3f3f3;
 	margin: 30px auto;
 }
+
+.headDetails {
+	padding: 20px 20px;
+	/*border-bottom: 2px solid #cf8a05;*/
+	background: #f3f3f3;
+}
+
+p.headerText {
+	text-align: center;
+	font-size: 1em;
+	line-height: 1.4em;
+	margin-bottom: 0px;
+	color: #444;
+}
+
+#head a, a[href^=tel] {
+	color: #cf8a05; 
+	text-decoration: none;
+	-webkit-transition: all .3s ease-in;
+	-moz-transition: all .3s ease-in;
+	-o-transition: all .3s ease-in;
+	-ms-transition: all .3s ease-in;
+	transition: all .3s ease-in;
+}
+
+/*#head a:hover { 
+	color: #cf8a05;
+}*/
 
 .mainDetails {
 	padding: 25px 35px;
