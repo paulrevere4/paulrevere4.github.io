@@ -1,0 +1,60 @@
+Paul Revere, IV
+Computer Scientist
+
+--- Contact ---
+revereiv@gmail.com
+www.pr4.me
+www.github.com/paulrevere4
+https://www.linkedin.com/pub/paul-revere-iv/5a/b11/237
+774.487.1163
+
+--- Education ---
+Rensselaer Polytechnic Institute
+August 2013 - May 2017 (currently a Junior)
+Bachelor of Science in Computer Science, Minor in Economics 
+GPA: 3.2
+
+--- Experience ---
+Rensselaer Polytechnic Institute
+Scientific Computation Research Center (SCOREC)
+Undergraduate Researcher
+September 2015 - Present
+Currently creating a compression scheme for output files from an unstructured mesh generating code and implementing a compressor with matching decompressor in C++. Also developing a system to allow for simultaneous writing of output files in massively parallel environments. The goal of each project is to make files for unstructured meshes more manageable.
+
+Bechtel Marine Propulsion Corporation (BMPC)
+Knolls Atomic Power Laboratory (KAPL)
+Technical Intern
+June 2015 - August 2015
+Confidential Work for the United States Navy and United States Department Of Energy. Worked on a large scale Java project used to reduce the input size for scientific computing software. The project created a representative set of data from a much larger input, reducing HPC load for later processes. Also reduced run time and memory usage of the project by significant margin.
+
+Rensselaer Polytechnic Institute
+Rensselaer Center For Open Source Software (RCOS)
+Open Source Developer
+January 2014 - May 2015
+Contributed to an open source software project as a part of a team. Worked on a project called Vest, a Python project that analyzed data scraped from Facebook pages in an effort to study crime in friend groups. Learned fundamentals of working in a group on a project that lasted over a year.
+
+--- Technical Skills ---
+Java
+C/C++
+Python
+Git
+Subversion
+Linux
+HTML/CSS
+Unit Testing
+HPC
+
+--- Relevant Courses ---
+Algorithms
+Data Structures
+Operating Systems
+Cryptography & Network Security
+Software Principles
+Discrete Structures
+
+--- Leadership ---
+Sigma Alpha Epsilon Fraternity
+Recruitment Chairman
+Officer of the year 2014, previously Technology Chairman
+Managed a $10,000 budget for 9 months dedicated towards organizing recruitment events. Organized series of recruitment events and lead a fraternity of 60 members to recruit a new class of members.
+
