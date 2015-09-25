@@ -19,30 +19,39 @@ Rensselaer Polytechnic Institute
 Scientific Computation Research Center (SCOREC)
 Undergraduate Researcher
 September 2015 - Present
-Currently creating a compression scheme for output files from an unstructured 
-mesh generating code and implementing a compressor with matching decompressor 
-in C++. Also developing a system to allow for simultaneous writing of output 
-files in massively parallel environments. The goal of each project is to make 
-files for unstructured meshes more manageable.
+- Currently working on a series of improvements for finite element analysis mesh 
+generation software in C++.
+- Goal is to make files for unstructured meshes more condensed and more easily 
+managed.
+- Creating a compressor with matching decompressor for mesh visualization files.
+- Developing a system to allow for simultaneous writing of output files in 
+massively parallel environments.
+
 
 Bechtel Marine Propulsion Corporation (BMPC)
 Knolls Atomic Power Laboratory (KAPL)
 Technical Intern
 June 2015 - August 2015
-Confidential Work for the United States Navy and United States Department Of 
-Energy. Worked on a large scale Java project used to reduce the input size for 
-scientific computing software. The project created a representative set of data 
-from a much larger input, reducing HPC load for later processes. Also reduced 
-run time and memory usage of the project by significant margin.
+- Worked on a confidential project for the United States Navy and United States 
+Department Of Energy.
+- Contributed to a large scale Java project used to reduce the input size for a 
+scientific computing application.
+- Implemented logic to pull out a representative set of data based on their 
+characteristics.
+- Reduced run time by orders of magnitude by cutting out redundant calculations
+- Responsible for both source code and extensive testing of contributions.
 
 Rensselaer Polytechnic Institute
 Rensselaer Center For Open Source Software (RCOS)
 Open Source Developer
 January 2014 - May 2015
-Contributed to an open source software project as a part of a team. Worked on a 
-project called Vest, a Python project that analyzed data scraped from Facebook 
-pages in an effort to study crime in friend groups. Learned fundamentals of 
-working in a group on a project that lasted over a year.
+- Contributed to an open source software project as a part of a team.
+- Worked on a project called Vest, a Python project that analyzed data scraped 
+from social network pages.
+- Wrote the code to scrape webpages, crawl the various links they returned, and 
+analyze the results.
+- Learned fundamentals of working in a small group on a project that lasted 
+several months.
 
 --- Technical Skills ---
 Java
@@ -53,7 +62,7 @@ Subversion
 Linux
 HTML/CSS
 Unit Testing
-HPC
+Latex
 
 --- Relevant Courses ---
 Algorithms
@@ -66,8 +75,8 @@ Discrete Structures
 --- Leadership ---
 Sigma Alpha Epsilon Fraternity
 Recruitment Chairman
-Officer of the year 2014, previously Technology Chairman
-Managed a $10,000 budget for 9 months dedicated towards organizing recruitment 
-events. Organized series of recruitment events and lead a fraternity of 60 
-members to recruit a new class of members.
-
+Managed a $10,000 budget for nine months dedicated towards organizing 
+recruitment events. Organized series of recruitment events and lead a 
+fraternity of 60 members to recruit a new class.
+Technology Chairman
+Officer of the year 2014
