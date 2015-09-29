@@ -62,7 +62,7 @@ Subversion
 Linux
 HTML/CSS
 Unit Testing
-Latex
+LaTeX
 
 --- Relevant Courses ---
 Algorithms
