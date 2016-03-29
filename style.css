@@ -19,6 +19,10 @@ html, body {
 	color: #222;
 }
 
+h2.experienceBody {
+	margin-top: 20px;
+}
+
 .clear {clear: both;}
 
 h1 {
@@ -28,8 +32,16 @@ h1 {
 p {
 	font-size: 1em;
 	line-height: 1.4em;
-	margin-bottom: 20px;
+	/*margin-bottom: 20px;*/
 	color: #444;
+}
+
+p.end {
+	margin-bottom: 20px;
+}
+
+p.first {
+	margin-bottom: 3px;
 }
 
 #head {
@@ -183,7 +195,6 @@ section:last-child {
 .subDetails {
 	font-size: 0.8em;
 	font-style: italic;
-	margin-bottom: 3px;
 }
 
 .keySkills {
