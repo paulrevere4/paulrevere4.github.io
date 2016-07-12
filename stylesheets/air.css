@@ -10,7 +10,7 @@
 
   a,
   a:visited {
-    text-decoration: underline;
+    text-decoration: none;
   }
 
   a[href]:after {
@@ -184,12 +184,14 @@ img {
 a,
 a:visited {
   color: #3498db;
+  text-decoration: none;
 }
 
 a:hover,
 a:focus,
 a:active {
   color: #2980b9;
+  text-decoration: none;
 }
 
 pre {
