@@ -1,6 +1,7 @@
 <!doctype html>
 <html>
 <head>
+	<!-- Page head stuff -->
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="chrome=1">
 	<meta name="description" content="Personal Website of Paul Revere"/>
@@ -9,6 +10,16 @@
 	<link rel="stylesheet" href="stylesheets/air.css">
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans|Raleway">
 	<meta name="viewport" content="width=device-width">
+
+	<!-- Google analytics tag -->
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+		ga('create', 'UA-84832805-1', 'auto');
+		ga('send', 'pageview');
+	</script>
 </head>
 
 <body>
@@ -19,7 +30,7 @@
 	<p>Hi, I&#39;m Paul. I study computer science at RPI, an engineering school in upstate New York. If you are interested in my work please take a look at my <a href="PaulRevereResume.pdf">resume</a> or my <a href="https://github.com/paulrevere4">github</a>. The easiest way to reach me is to email me at <a href="mailto:me@paulrevere4.com">me@paulrevere4.com</a> or by downloading my <a href="contact.vcf">contact card</a>. You can also connect with me on <a href="https://www.linkedin.com/in/paulrevere4">linkedin</a>.</p>
 
 	<!-- Interests, skills, and courses -->
-	<p>I&#39;m a software engineer interested in the infrastructure that systems with high demands of scalability and efficiency are built on. I&#39;m a proud linux user and my languages of choice are Java, C/C++, and Python. In school I have taken courses in the fundamentals like Data Structures, Algorithms, Operating Systems, Programming Languages, and Software Design. I have also enjoyed classes in Distributed Systems, Theoretical Distributed Computing, Machine Learning, Artificial Intelligence, and Cryptography.</p>
+	<p>I&#39;m a software engineer focused on the systems that can scale to make computationally intensive tasks feasible. My languages of choice are Java, C/C++, and Python and I&#39;m a proud Linux user (I also have <a href="https://en.wikipedia.org/wiki/History_of_Linux">the same birthday as Linux</a>). In school I have taken courses in the fundamentals like Data Structures, Algorithms, Operating Systems, Programming Languages, and Software Design. I have also enjoyed classes in Distributed Systems, Theoretical Distributed Computing, Machine Learning, Data Mining, Artificial Intelligence, and Cryptography.</p>
 
 	<!-- Quantcast Work -->
 	<p>For the summer of 2016 I interned with <a href="https://www.quantcast.com/">Quantcast</a> in San Francisco, CA where I was a part of their Big Data Services team. I worked on a Java project that allows data scientists and analysts run SQL-like queries over petabytes of data through MapReduce jobs. Think like <a href="https://prestodb.io/">Presto</a> or <a href="https://hive.apache.org/">Hive</a> but tailored for their systems and use cases. On this project I made changes to add <a href="https://www.quora.com/What-is-predicate-pushdown-In-mapreduce">predicate pushdown</a> capabilities to reads from databases, speeding up reads by 10x in some cases and reducing network traffic in their datacenters. I also re-implemented the <a href="http://pages.cs.wisc.edu/~jignesh/publ/hadoopjoin.pdf#page=4">broadcast-join</a> operation, allowing for more flexibility in its usage.</p>
